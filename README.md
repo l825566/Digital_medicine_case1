@@ -3,6 +3,5 @@
 ##### Step1. In Linux with Python.
 ##### Step2. Download the source code(case1.py) and the folder of "data", which involves training data and testing data.
 ##### Step3. Run the command to compile the script for the testing data:
-'''py
-python3 case1.py --training 1
-''' 
+    python3 case1.py --training 1
+
